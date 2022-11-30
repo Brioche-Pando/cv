@@ -8,8 +8,9 @@ pages:
   script:
     - npm install
     - npx resumed render resume.json --theme stackoverflow
-    - mv resume.html index.html
+    - mkdir public
+    - mv resume.html public/index.html
 
   artifacts:
     paths:
-      - public
+      - public  
