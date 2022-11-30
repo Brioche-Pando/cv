@@ -1,0 +1,102 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Bryan Neveu",
+    "label": "Développeur web | Étudiant en master développement web\n",
+    "image": "",
+    "email": "b.neveu09@gmail.com",
+    "phone": "0647097758",
+    "url": "https://bryanneveu.fr",
+    "summary": "",
+    "location": {
+      "countryCode": "FR",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "bryan-neveu",
+        "url": "https://www.linkedin.com/in/bryan-neveu/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Pando Studio",
+      "position": "Développeur web",
+      "startDate": "2021-03-31",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/pando-studio/",
+      "location": "Nantes, Pays de la Loire, France"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "ECV Digital",
+      "area": "Developpement web",
+      "studyType": "Master 1 (M1)",
+      "startDate": "2021-09-30",
+      "endDate": "2023-06-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "ECV Digital",
+      "area": "Design de pages Web, des ressources numériques / multimédia et d''information",
+      "studyType": "Bachelor",
+      "startDate": "2020-12-31",
+      "endDate": "2021-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Le Mans Université",
+      "area": "Design de pages Web, des ressources numériques / multimédia et d''information",
+      "studyType": "DUT métiers du multimédia et de l'internet",
+      "startDate": "2018-12-31",
+      "endDate": "2020-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programmation web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Création de sites web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement front-end",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Optimisation pour les moteurs de recherche (SEO)",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
